@@ -1,0 +1,12 @@
+{
+  "name": "skycloud3-builds",
+  "version": "0.0.1",
+  "author": "maomao",
+  "private": false,
+  "main": "dist/designer.umd.js",
+  "description": "skycloud Online Form Designer By Vue3",
+  "keywords": [
+    "element-ui",
+    "form-designer"
+  ]
+}
