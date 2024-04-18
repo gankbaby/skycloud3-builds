@@ -1,6 +1,6 @@
 {
   "name": "skycloud3-builds",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "maomao",
   "private": false,
   "main": "dist/designer.umd.js",
